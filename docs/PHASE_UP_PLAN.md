@@ -163,7 +163,7 @@ or Patience Check do. Copy: "Checkpoint saved."
 
 | Badge | How |
 |---|---|
-| **First Blood** (working name, may change) | Complete a Hard Mode quest |
+| **Hard Mode Hero** | Complete a Hard Mode quest |
 | **Chocolate Runner** | 3 snack quests during a period |
 | **Full Cycle** | At least one quest in all six modes in one cycle |
 | **Good Listener** | 5 "listen without fixing" quests |
